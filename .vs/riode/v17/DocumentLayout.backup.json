@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ca r221.14\\source\\repos\\riode\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9EF528C7-F722-4134-ADA0-36879BA7B170}|riode\\riode.csproj|c:\\users\\ca r221.14\\source\\repos\\riode\\riode\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EF528C7-F722-4134-ADA0-36879BA7B170}|riode\\riode.csproj|solutionrelative:riode\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EF528C7-F722-4134-ADA0-36879BA7B170}|riode\\riode.csproj|c:\\users\\ca r221.14\\source\\repos\\riode\\riode\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EF528C7-F722-4134-ADA0-36879BA7B170}|riode\\riode.csproj|solutionrelative:riode\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EF528C7-F722-4134-ADA0-36879BA7B170}|riode\\riode.csproj|c:\\users\\ca r221.14\\source\\repos\\riode\\riode\\riode.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9EF528C7-F722-4134-ADA0-36879BA7B170}|riode\\riode.csproj|solutionrelative:riode\\riode.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EF528C7-F722-4134-ADA0-36879BA7B170}|riode\\riode.csproj|c:\\users\\ca r221.14\\source\\repos\\riode\\riode\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9EF528C7-F722-4134-ADA0-36879BA7B170}|riode\\riode.csproj|solutionrelative:riode\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EF528C7-F722-4134-ADA0-36879BA7B170}|riode\\riode.csproj|c:\\users\\ca r221.14\\source\\repos\\riode\\riode\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9EF528C7-F722-4134-ADA0-36879BA7B170}|riode\\riode.csproj|solutionrelative:riode\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EF528C7-F722-4134-ADA0-36879BA7B170}|riode\\riode.csproj|c:\\users\\ca r221.14\\source\\repos\\riode\\riode\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9EF528C7-F722-4134-ADA0-36879BA7B170}|riode\\riode.csproj|solutionrelative:riode\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EF528C7-F722-4134-ADA0-36879BA7B170}|riode\\riode.csproj|c:\\users\\ca r221.14\\source\\repos\\riode\\riode\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9EF528C7-F722-4134-ADA0-36879BA7B170}|riode\\riode.csproj|solutionrelative:riode\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "riode",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\source\\repos\\riode\\riode\\riode.csproj",
+              "RelativeDocumentMoniker": "riode\\riode.csproj",
+              "ToolTip": "C:\\Users\\ca r221.14\\source\\repos\\riode\\riode\\riode.csproj",
+              "RelativeToolTip": "riode\\riode.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-03T07:52:54.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppdbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\source\\repos\\riode\\riode\\DAL\\AppdbContext.cs",
+              "RelativeDocumentMoniker": "riode\\DAL\\AppdbContext.cs",
+              "ToolTip": "C:\\Users\\ca r221.14\\source\\repos\\riode\\riode\\DAL\\AppdbContext.cs",
+              "RelativeToolTip": "riode\\DAL\\AppdbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T07:52:44.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\source\\repos\\riode\\riode\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "riode\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ca r221.14\\source\\repos\\riode\\riode\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "riode\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T07:50:49.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\source\\repos\\riode\\riode\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "riode\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ca r221.14\\source\\repos\\riode\\riode\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "riode\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T07:49:53.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\source\\repos\\riode\\riode\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "riode\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ca r221.14\\source\\repos\\riode\\riode\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "riode\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T07:49:17.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\source\\repos\\riode\\riode\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "riode\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ca r221.14\\source\\repos\\riode\\riode\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "riode\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T07:46:27.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\source\\repos\\riode\\riode\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "riode\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ca r221.14\\source\\repos\\riode\\riode\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "riode\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T07:46:15.238Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
